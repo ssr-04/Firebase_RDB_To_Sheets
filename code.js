@@ -1,3 +1,8 @@
+//Author - Sachin Sabariram (ssr-04)
+//Distributed under opensource
+
+
+
 function update() {
   var ss = SpreadsheetApp.getActiveSpreadsheet();
   var sheets = ss.getSheets();
